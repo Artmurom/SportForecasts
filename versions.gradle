@@ -1,0 +1,11 @@
+ext {
+    supportVersion = '26.0.2'
+
+    okhttpVersion = '3.8.0'
+    retrofitVersion = '2.3.0'
+    rxAndroidVersion = '1.2.1'
+    rvJavaVersion = '1.3.0'
+    butterknifeVersion = '8.8.1'
+
+    junitVersion = '4.12'
+}

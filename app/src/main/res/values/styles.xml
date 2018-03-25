@@ -1,0 +1,38 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    </style>
+
+    <style name="MyTextView" parent="AppTheme">
+        <item name="android:layout_marginLeft">@dimen/spacing_small</item>
+        <item name="android:layout_marginRight">@dimen/spacing_small</item>
+        <item name="android:layout_marginBottom">@dimen/spacing_small</item>
+        <item name="android:gravity">center_vertical|start</item>
+        <item name="android:textSize">@dimen/font_small</item>
+    </style>
+
+    <style name="MyTextViewList" parent="AppTheme">
+        <item name="android:layout_margin">@dimen/spacing_tiny</item>
+        <item name="android:gravity">center_vertical|start</item>
+        <item name="android:textSize">@dimen/font_small</item>
+    </style>
+
+    <style name="MyTextViewSubTitle" parent="AppTheme">
+        <item name="android:layout_marginLeft">@dimen/spacing_small</item>
+        <item name="android:layout_marginTop">@dimen/spacing_tiny</item>
+        <item name="android:layout_marginBottom">@dimen/spacing_tiny</item>
+        <item name="android:gravity">center_vertical|start</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/blue</item>
+        <item name="android:textSize">@dimen/font_small</item>
+    </style>
+
+    <style name="HorizontalLine">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">@color/gray_light</item>
+    </style>
+
+</resources>

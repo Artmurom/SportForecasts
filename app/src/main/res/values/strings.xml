@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Forecasts for Sport</string>
+
+    <!-- Main activity. -->
+    <string name="main_error_loading">Error loading data</string>
+    <string-array name="main_category_list">
+        <item>Football</item>
+        <item>Hockey</item>
+        <item>Tennis</item>
+        <item>Basketball</item>
+        <item>Volleyball</item>
+        <item>Cybersport</item>
+    </string-array>
+
+
+    <!-- Article activity. -->
+    <string name="article_team">Teams</string>
+    <string name="article_time">Time</string>
+    <string name="article_tournament">Tournament</string>
+    <string name="article_place">Place</string>
+    <string name="article_article">Article</string>
+    <string name="article_prediction">Prediction</string>
+    <string name="article_error_loading">Error loading article</string>
+
+
+</resources>

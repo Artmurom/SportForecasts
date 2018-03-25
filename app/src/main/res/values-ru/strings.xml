@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Прогнозы на спорт</string>
+
+    <!-- Main activity. -->
+    <string name="main_error_loading">Произошла ошибка при попытке зугрузить данные</string>
+    <string-array name="main_category_list">
+        <item>Футбол</item>
+        <item>Хоккей</item>
+        <item>Теннис</item>
+        <item>Баскетбол</item>
+        <item>Волейбол</item>
+        <item>Киберспорт</item>
+    </string-array>
+
+    <!-- Article activity. -->
+    <string name="article_team">Команды</string>
+    <string name="article_time">Время</string>
+    <string name="article_tournament">Турнир</string>
+    <string name="article_place">Место</string>
+    <string name="article_article">Статьи</string>
+    <string name="article_prediction">Прогноз</string>
+    <string name="article_error_loading">Произошла ошибка при попытке загрузить статью</string>
+
+</resources>
